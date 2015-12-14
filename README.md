@@ -16,6 +16,11 @@ Add this to your localmanifest
 lunch cm_oneplus2-(eng/userdebug/user)
 make #recipe
 ```
+OR
+```bash
+. build/envsetup.sh
+brunch oneplus2
+```
 
 Copyright 2015 - The CyanogenMod Project
 
@@ -38,3 +43,13 @@ Front Camera | 5 MP
 Release Date | July 2015
 
 ![OnePlus Two](http://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-two-1.jpg "OnePlus Two")
+
+
+Credits :-
+@Grarak
+@regalstreak
+@manups4e
+@Martinusbe
+@root-expert
+@DavidVazGuijarro
+@elgithubo
