@@ -228,6 +228,10 @@ PRODUCT_COPY_FILES += \
 # RIL
 PRODUCT_PACKAGES += \
     libcnefeatureconfig
+    
+# Camera
+PRODUCT_PACKAGES += \
+    libcamera_shim
 
 # Sensors
 PRODUCT_COPY_FILES += \
