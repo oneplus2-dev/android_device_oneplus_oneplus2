@@ -20,4 +20,4 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit oneplus2-specific vendor tree
 $(call inherit-product-if-exists, vendor/oneplus/oneplus2/oneplus2-vendor.mk)
 
-TARGET_UNOFFICIAL_BUILD_ID := BETA
+TARGET_UNOFFICIAL_BUILD_ID := NIGHTLY-UNOFFICIAL
