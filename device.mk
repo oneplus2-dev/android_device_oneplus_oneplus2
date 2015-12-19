@@ -37,7 +37,7 @@ PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-   PRODUCT_NAME=occam BUILD_FINGERPRINT=OnePlus/OnePlus2/OnePlus2:6.0.1/MMB29M/2431559:userdebug/release-keys \
+   PRODUCT_NAME=oneplus2 BUILD_FINGERPRINT=OnePlus/OnePlus2/OnePlus2:6.0.1/MMB29M/2431559:userdebug/release-keys \
    PRIVATE_BUILD_DESC="OnePlus2-userdebug 6.0.1 MMB29M dev-keys"
 
 # Ramdisk
