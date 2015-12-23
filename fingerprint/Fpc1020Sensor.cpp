@@ -667,5 +667,3 @@ bool Fpc1020Sensor::TimeoutWatchdogThread::threadLoop()
 
     return false;
 }
-
-
