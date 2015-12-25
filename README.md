@@ -54,3 +54,44 @@ Credits :-
 @root-expert
 @DavidVazGuijarro
 @elgithubo
+
+#CHANGELOG
+
+## Not working:
+* Fingerprint
+* Laser AutoFocus
+
+## Nightly build 20151224 - cm-13.0
+* Latest cm-13.0 changes
+* Update adreno blobs -test-
+
+## Nightly build 20151223 - cm-13.0
+* Latest cm-13.0 changes
+* Enable fingerprint
+
+## Nightly build 20151221 - cm-13.0
+* Latest cm-13.0 changes
+* Fix MAC address
+* Fix flashlight tile
+* Remove CM boringssl-compat and integrate the Sony version
+
+## Nightly build 20151219 - cm-13.0
+* Latest cm-13.0 changes
+* Fix camera
+* Fix double tap to wake
+* Fix voice bug
+
+## Nightly build 20151218 - cm-13.0
+* Latest cm-13.0 changes
+* Kill Laser AutoFocus
+
+## Nightly build 20151217 - cm-13.0
+* Latest cm-13.0 changes
+* Fix WiFi
+
+## Nightly build 20151214 - cm-13.0
+* Latest cm-13.0 changes
+* Fix RIL
+
+## Nightly build 20151213 - cm-13.0
+* First booting build
